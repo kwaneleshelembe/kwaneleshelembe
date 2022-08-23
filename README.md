@@ -5,11 +5,9 @@
 - 🌱 I’m currently learning ...react and bootstrap
 - 📫 How to reach me ...kwaneleshelembe841@gmail.com
 
-## No worries !!
+## Hello world !!
 
-<img alt="coding" src="https://th.bing.com/th/id/OIP.dcL4QoY64t9rOsLQpNYwJgHaEK?pid=ImgDet&rs=1"/>
-
-<img alt="landscape" src="https://www.bing.com/th?id=OIP.kSwyFg0rMMl3TyyqPM9GCgHaHa&w=206&h=206&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2"/>
+<img alt="coding" src="https://th.bing.com/th/id/R.c072d63d5a6ada8c83abef48e223408c?rik=cLasovW%2fkBWcOQ&pid=ImgRaw&r=0"/>
 
 <!---
 kwaneleshelembe/kwaneleshelembe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
